@@ -13,10 +13,10 @@ function xo(str){
     }
     var c;
     if (a==b){
-        c = 'true'
+        c = true
     }
     else {
-        c = 'false'
+        c = false
     }
     return c;
 }

@@ -3,10 +3,10 @@ function bandingAngka(angka1, angka2){
         return '-1';
     }
     else if (angka1 <= angka2){
-        return 'true'; 
+        return true; 
     }
     else {
-        return 'false';
+        return false;
     }
 
 }
