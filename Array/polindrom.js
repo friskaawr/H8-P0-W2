@@ -5,10 +5,10 @@ function palindrome(kata){
     }
     
     if (kata == p){
-        return 'true'
+        return true
     }
     else{
-        return 'false'
+        return false
     }
 }
 
